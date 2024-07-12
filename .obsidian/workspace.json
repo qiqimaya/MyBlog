@@ -167,8 +167,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "de88ef87fb13260b",
+  "active": "99a3c6c8176dacd6",
   "lastOpenFiles": [
+    "node_modules/hexo-deployer-git/node_modules/hexo-util/README.md",
+    "node_modules/hexo-deployer-git/node_modules/hexo-util/package.json",
+    "node_modules/hexo-deployer-git/node_modules/hexo-util/highlight_alias.json",
+    "node_modules/hexo-deployer-git/node_modules/entities/readme.md",
+    "node_modules/hexo-deployer-git/node_modules/htmlparser2/README.md",
+    "node_modules/hexo-deployer-git/node_modules/htmlparser2/package.json",
+    "node_modules/hexo-deployer-git/node_modules/domhandler/readme.md",
+    "node_modules/hexo-deployer-git/node_modules/dom-serializer/package.json",
+    "node_modules/hexo-deployer-git/package.json",
+    "node_modules/hexo-deployer-git/node_modules/hexo-util/lib/word_wrap.js",
+    "node_modules/hexo-deployer-git/node_modules/hexo-util/lib/url_for.js",
+    "node_modules/hexo-deployer-git/node_modules/hexo-util/lib/unescape_html.js",
+    "node_modules/hexo-deployer-git/node_modules/hexo-util/lib/truncate.js",
+    "node_modules/hexo-deployer-git/node_modules/hexo-util/lib/toc_obj.js",
     "source/_posts/hello-world.md",
     "source/_posts/未命名.md"
   ]
